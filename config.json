@@ -1,0 +1,25 @@
+{
+  "brojScrima": 76,
+  "datum": "2021-07-13T15:51:27.475Z",
+  "prijaveOtkljucane": true,
+  "brojTimova": 3,
+  "vipTimovi": [
+    {
+      "tim": "Saiyans Army Ladies",
+      "broj": 1000
+    },
+    {
+      "tim": "EUX TEAM",
+      "broj": 1
+    },
+    {
+      "tim": "PMBOeSports",
+      "broj": 10
+    }
+  ],
+  "prijave": [
+    "{\n  \"teamName\": \"XxxxxX\",\n  \"teamTag\": \"xxx\",\n  \"teamManager\": \"XxxxxX\",\n  \"igraci\": [\n    {\n      \"ime\": \"XxxxxX\",\n      \"id\": \"123456789\",\n      \"zastava\": \"🇧🇦\"\n    },\n    {\n      \"ime\": \"XxxxxX\",\n      \"id\": \"123456789\",\n      \"zastava\": \"🇷🇸\"\n    },\n    {\n      \"ime\": \"XxxxxX\",\n      \"id\": \"123456789\",\n      \"zastava\": \"🇲🇪\"\n    },\n    {\n      \"ime\": \"XxxxxX\",\n      \"id\": \"123456789\",\n      \"zastava\": \"🇭🇷\"\n    }\n  ],\n  \"rezerve\": [\n    {\n      \"ime\": \"XxxxxX\",\n      \"id\": \"123456789\",\n      \"zastava\": \"🇩🇪\"\n    },\n    {\n      \"ime\": \"XxxxxX\",\n      \"id\": \"123456789\",\n      \"zastava\": \"🇦🇱\"\n    },\n    {\n      \"ime\": \"XxxxxX\",\n      \"id\": \"123456789\",\n      \"zastava\": \"🇲🇰\"\n    }\n  ]\n}"
+  ],
+  "tabelaLista": [],
+  "cekanjeLista": []
+}
